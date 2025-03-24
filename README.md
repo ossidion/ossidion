@@ -9,3 +9,4 @@
 - 📫 How to reach me: you can reach me at alexinbristol@outlook.com
 - ⚡ Fun fact: I used to work as a lemon farmer in QLD, Australia!             
 
+ 
