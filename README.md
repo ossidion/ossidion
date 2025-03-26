@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with getting into freelance web development using Django.
 - 💬 Ask me about any of my repositories!
 - 📫 How to reach me: you can reach me at alexinbristol@outlook.com
-- ⚡ Fun fact: I used to work as a lemon farmer in QLD, Australia!             
+- ⚡ Fun fact: I used to work as a lemon farmer in QLD, Australia!              
 
  
