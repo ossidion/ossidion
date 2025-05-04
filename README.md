@@ -1,9 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&width=435&lines=Hi+there!+I'm+Alex!;Web+Dev+%7C+Bikepacking+Fan)
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/Languages-JavaScript-yellow?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react)
 
-![Bikepacking](Pictures/iguazu.jpg)
+![iguazu](Pictures/iguazu.jpg)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ossidion&show_icons=true&theme=radical)
 
