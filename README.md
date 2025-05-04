@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&width=435&lines=Hi+there!+I'm+Alex!;Web+Dev+%7C+Bikepacking+Fan)
 
+![Bikepacking](/home/ossidion/Pictures/iguazu.jpg)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ossidion&show_icons=true&theme=radical)
 
 
