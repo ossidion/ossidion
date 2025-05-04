@@ -3,6 +3,10 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ossidion&show_icons=true&theme=radical)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+
+
 
 - 🔭 I'm currently building a cooking website using Django. By Christmas, I aim to have a website where users can add their own receipes. 
 - 🌱 Python, Django, HTML and CSS and SQL. 
