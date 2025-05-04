@@ -5,6 +5,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossidion&layout=compact&theme=radical)
 
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react)
+
+
 
 
 
