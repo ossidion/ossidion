@@ -3,7 +3,7 @@
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react)
 
-![Bikepacking](/home/ossidion/Pictures/iguazu.jpg)
+![Bikepacking](Pictures/iguazu.jpg)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ossidion&show_icons=true&theme=radical)
 
