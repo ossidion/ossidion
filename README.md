@@ -1,5 +1,8 @@
 ### Hi 👋 my name is Alex. Welcome!
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ossidion&show_icons=true&theme=radical)
+
+
 
 - 🔭 I'm currently building a cooking website using Django. By Christmas, I aim to have a website where users can add their own receipes. 
 - 🌱 Python, Django, HTML and CSS and SQL. 
