@@ -8,6 +8,9 @@
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/alex-graham-7883297a/)
+
+
 
 
 
