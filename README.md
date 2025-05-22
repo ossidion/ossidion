@@ -64,5 +64,5 @@
 
 ## 🔗 Explore My Work
 
-[![NC News](https://img.shields.io/badge/NC_News-Live_Demo-0a9396?style=flat&logo=vercel&logoColor=white)](https://nc-news-alex-graham.netlify.app/)
+[![NC News](https://img.shields.io/badge/NC_News-Live_Demo-0a9396?style=flat&logo=rss&logoColor=FFD700)](https://nc-news-alex-graham.netlify.app/)
 [![Budgee](https://img.shields.io/badge/Budgee-Live_Demo-ca6702?style=flat&logo=netlify&logoColor=white)](https://budgee-nc.netlify.app/)
