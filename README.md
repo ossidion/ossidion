@@ -27,6 +27,7 @@
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visualstudiocode)
 
 
+
 <div align="left">
   <img 
     src="https://raw.githubusercontent.com/ossidion/ossidion/main/iguazu.jpg" 
@@ -35,15 +36,14 @@
     style="border-radius: 20px; border: 1px solid #ccc;" 
   />
   <br/>
-  <em>Iguazu Falls – one of my favorite adventures </em>🌎<br>
+  <em>Iguazu Falls – one of my favorite adventures </em>🌎
 </div>
 
+&nbsp;
 
-
-
+---
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ossidion&show_icons=true&theme=radical)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossidion&layout=compact&theme=radical)
 
@@ -51,18 +51,19 @@
 - 💬 Ask me about any of my repositories!
 - ⚡ Fun fact: I used to work as a lemon farmer in QLD, Australia!
 
+---
 
 ## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alex--graham-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alex-graham-dev/)
-[![Email](https://img.shields.io/badge/Email-alexgraham.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexgraham.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alex--graham-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-graham-dev/)
+[![Email](https://img.shields.io/badge/Email-alexgraham.dev%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:alexgraham.dev@gmail.com)
 
 ---
 
 ## 🔗 Explore My Work
 
-[![NC News](https://img.shields.io/badge/NC_News-Live_Demo-0a9396?style=for-the-badge&logo=vercel&logoColor=white)](https://nc-news-alex-graham.netlify.app/)
-[![Budgee](https://img.shields.io/badge/Budgee-Live_Demo-ca6702?style=for-the-badge&logo=netlify&logoColor=white)](https://budgee.netlify.app/)
+[![NC News](https://img.shields.io/badge/NC_News-Live_Demo-0a9396?style=flat&logo=vercel&logoColor=white)](https://nc-news-alex-graham.netlify.app/)
+[![Budgee](https://img.shields.io/badge/Budgee-Live_Demo-ca6702?style=flat&logo=netlify&logoColor=white)](https://budgee.netlify.app/)
 
 
                    
