@@ -1,5 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&width=600&lines=Hi+there!+I'm+Alex!;Web+Dev+%7C+Bikepacking+Fan;Full-stack+dev+with+transport+planning+background;Now+building+clean,+modern+web+apps)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alex-graham-7883297a/)
 
 ## 🛠 Tech Stack
 
@@ -48,22 +47,24 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossidion&layout=compact&theme=radical)
 
-
-
-
-
-
-
-
-
-
-
-- 🔭 I'm currently building a cooking website using Django. By Christmas, I aim to have a website where users can add their own receipes. 
-- 🌱 Python, Django, HTML and CSS and SQL. 
-- 👯 I’m looking to collaborate on web development projects using Django. 
-- 🤔 I’m looking for help with getting into freelance web development using Django.
+- 🔭 I’m looking to start my next chapter in joining a team of developers.
 - 💬 Ask me about any of my repositories!
-- 📫 How to reach me: you can reach me at alexinbristol@outlook.com
-- ⚡ Fun fact: I used to work as a lemon farmer in QLD, Australia!                   
+- ⚡ Fun fact: I used to work as a lemon farmer in QLD, Australia!
+
+
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alex--graham-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alex-graham-dev/)
+[![Email](https://img.shields.io/badge/Email-alexgraham.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexgraham.dev@gmail.com)
+
+---
+
+## 🔗 Explore My Work
+
+[![NC News](https://img.shields.io/badge/NC_News-Live_Demo-0a9396?style=for-the-badge&logo=vercel&logoColor=white)](https://nc-news-alex-graham.netlify.app/)
+[![Budgee](https://img.shields.io/badge/Budgee-Live_Demo-ca6702?style=for-the-badge&logo=netlify&logoColor=white)](https://budgee.netlify.app/)
+
+
+                   
  
  
