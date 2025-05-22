@@ -35,7 +35,7 @@
     style="border-radius: 20px; border: 1px solid #ccc;" 
   />
   <br/>
-  <em>Iguazu Falls – one of my favorite adventures </em>🌎<br/>
+  <em>Iguazu Falls – one of my favorite adventures </em>🌎<br>
 </div>
 
 
