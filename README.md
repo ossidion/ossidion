@@ -1,5 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&width=600&lines=Hi+there!+I'm+Alex!;Web+Dev+%7C+Bikepacking+Fan;Full-stack+dev+with+transport+planning+background;Now+building+clean,+modern+web+apps)
-
 ---
 
 ## 🛠 Tech Stack
@@ -65,4 +64,4 @@
 ## 🔗 Explore My Work
 
 [![NC News](https://img.shields.io/badge/NC_News-Live_Demo-0a9396?style=flat&logo=vercel&logoColor=white)](https://nc-news-alex-graham.netlify.app/)
-[![Budgee](https://img.shields.io/badge/Budgee-Live_Demo-ca6702?style=flat&logo=netlify&logoColor=white)](https://budgee.netlify.app/)
+[![Budgee](https://img.shields.io/badge/Budgee-Live_Demo-ca6702?style=flat&logo=netlify&logoColor=white)](https://budgee-nc.netlify.app/)
