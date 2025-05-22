@@ -49,7 +49,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossidion&layout=compact&theme=radical)
 
-- 🔭 I’m looking to start my next chapter in joining a team of developers.
+- 🔭 I’m looking to start my next chapter; joining a team of developers and succeeding together!
 - 💬 Ask me about any of my repositories!
 - ⚡ Fun fact: I used to work as a lemon farmer in QLD, Australia!
 
