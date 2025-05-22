@@ -29,7 +29,7 @@
 
 <div align="left">
   <img 
-    src="https://raw.githubusercontent.com/your-username/your-username/main/iguazu.jpg" 
+    src="https://raw.githubusercontent.com/ossidion/ossidion/main/iguazu.jpg" 
     alt="Iguazu Falls" 
     width="400"
     style="border: 2px solid #ccc; border-radius: 10px;"
