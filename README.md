@@ -27,9 +27,17 @@
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visualstudiocode)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ossidion/ossidion/main/iguazu.jpg" alt="Iguazu Falls" width="500"/>
-</p>
+<div align="left">
+  <img 
+    src="https://raw.githubusercontent.com/your-username/your-username/main/iguazu.jpg" 
+    alt="Iguazu Falls" 
+    width="400"
+    style="border: 2px solid #ccc; border-radius: 10px;"
+  />
+  <br/>
+  <em>Iguazu Falls – one of my favorite adventures 🌎</em>
+</div>
+
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ossidion&show_icons=true&theme=radical)
 
