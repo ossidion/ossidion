@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&width=600&lines=Hi+there!+I'm+Alex!;Web+Dev+%7C+Bikepacking+Fan;Full-stack+developer+with+a+background+in+transport+planning;Now+building+clean,+modern+web+apps)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&width=600&lines=Hi+there!+I'm+Alex!;Web+Dev+%7C+Bikepacking+Fan;Full-stack+dev+with+a+background+in+transport+planning;Now+building+clean,+modern+web+apps)
 
 ## 🛠 Tech Stack
 
