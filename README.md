@@ -51,7 +51,7 @@
 
 - 🔭 I’m looking to start my next chapter; joining a team of developers and succeeding together!
 - 💬 Ask me about any of my repositories!
-- ⚡ Fun fact: I used to work as a lemon farmer in Queensland, Australia!
+- 🍋 Fun fact: I used to work as a lemon farmer in Queensland, Australia!
 
 ---
 
