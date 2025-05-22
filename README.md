@@ -32,11 +32,12 @@
     src="https://raw.githubusercontent.com/ossidion/ossidion/main/iguazu.jpg" 
     alt="Iguazu Falls" 
     width="400"
-    style="border-radius: 12px; border: 1px solid #ccc;" 
+    style="border-radius: 20px; border: 1px solid #ccc;" 
   />
   <br/>
-  <em>Iguazu Falls – one of my favorite adventures 🌎</em>
+  <em>Iguazu Falls – one of my favorite adventures </em> <p>🌎</p><br/>
 </div>
+
 
 
 
