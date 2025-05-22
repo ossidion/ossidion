@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/iguazu.jpg" alt="Iguazu Falls" width="500"/>
+  <img src="https://raw.githubusercontent.com/ossidion/ossidion/main/iguazu.jpg" alt="Iguazu Falls" width="500"/>
 </p>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ossidion&show_icons=true&theme=radical)
