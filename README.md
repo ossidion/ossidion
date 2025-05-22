@@ -26,6 +26,11 @@
 ![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF?style=flat&logo=vite)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visualstudiocode)
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/iguazu.jpg" alt="Iguazu Falls" width="500"/>
+</p>
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ossidion&show_icons=true&theme=radical)
 
 
