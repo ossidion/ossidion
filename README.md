@@ -26,9 +26,6 @@
 ![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF?style=flat&logo=vite)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visualstudiocode)
 
-
-![iguazu](iguazu.jpg)
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ossidion&show_icons=true&theme=radical)
 
 
