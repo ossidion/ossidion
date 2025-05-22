@@ -58,7 +58,7 @@
 ## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alex--graham-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-graham-7883297a/)
-[![Email](https://img.shields.io/badge/Email-alexgraham.dev%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:alexinbristol@outlook.com)
+[![Email](https://img.shields.io/badge/Email-alexinbristol@outlook.com-red?style=flat&logo=gmail&logoColor=white)](mailto:alexinbristol@outlook.com)
 
 ---
 
